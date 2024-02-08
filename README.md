@@ -1,6 +1,6 @@
 # Sentiment Analysis of User Reviews for the Movie "Animal" (2023)
 
-![Animal Movie Poster]([movie_poster_image_link_here](https://www.hindustantimes.com/ht-img/img/2023/09/18/original/Ranbir_Kapoor_Animal_1695014609357.webp))
+![Animal Movie Poster] https://www.hindustantimes.com/ht-img/img/2023/09/18/original/Ranbir_Kapoor_Animal_1695014609357.webp
 
 ## Introduction
 

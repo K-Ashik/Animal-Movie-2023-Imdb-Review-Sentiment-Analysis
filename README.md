@@ -1,7 +1,7 @@
 # Sentiment Analysis of User Reviews for the Movie "Animal" (2023)
 
 <div style="text-align: center;">
-    <img src="https://m.media-amazon.com/images/M/MV5BNGViM2M4NmUtMmNkNy00MTQ5LTk5MDYtNmNhODAzODkwOTJlXkEyXkFqcGdeQXVyMTY1NDY4NTIw._V1_.jpg" alt="animal" width="450" height="300">
+    <img src="https://m.media-amazon.com/images/M/MV5BNGViM2M4NmUtMmNkNy00MTQ5LTk5MDYtNmNhODAzODkwOTJlXkEyXkFqcGdeQXVyMTY1NDY4NTIw._V1_.jpg" alt="animal" width="800" height="800">
 </div>
 
 

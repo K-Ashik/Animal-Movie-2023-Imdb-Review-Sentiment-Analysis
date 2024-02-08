@@ -1,6 +1,9 @@
 # Sentiment Analysis of User Reviews for the Movie "Animal" (2023)
 
-![Animal Movie Poster] https://www.hindustantimes.com/ht-img/img/2023/09/18/original/Ranbir_Kapoor_Animal_1695014609357.webp
+<div style="text-align: center;">
+    <img src="[https://www.telugu360.com/wp-content/uploads/2024/02/Sandeep-Reddy-Vanga.jpg](https://m.media-amazon.com/images/M/MV5BNGViM2M4NmUtMmNkNy00MTQ5LTk5MDYtNmNhODAzODkwOTJlXkEyXkFqcGdeQXVyMTY1NDY4NTIw._V1_.jpg)" alt="Sandeep" width="450" height="300">
+</div>
+
 
 ## Introduction
 
